@@ -1,0 +1,16 @@
+D:\29. Web Services\WebService\WindowsForms\obj\Debug\WindowsForms.DangNhap_Form.resources
+D:\29. Web Services\WebService\WindowsForms\obj\Debug\WindowsForms.Main_Form.resources
+D:\29. Web Services\WebService\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\29. Web Services\WebService\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+D:\29. Web Services\WebService\WindowsForms\bin\Debug\WindowsForms.exe
+D:\29. Web Services\WebService\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\29. Web Services\WebService\WindowsForms\obj\Debug\WindowsForms.exe
+D:\29. Web Services\WebService\WindowsForms\obj\Debug\WindowsForms.pdb
+D:\29. Web Services\WebService\WindowsForms\obj\Debug\WindowsForms.DanhMuc_Form.resources
+D:\29. Web Services\WebService\WindowsForms\obj\Debug\WindowsForms.SanPham_Form.resources
+D:\29. Web Services\WebService\WindowsForms\obj\Debug\WindowsForms.KhachHang_Form.resources
+D:\29. Web Services\WebService\WindowsForms\obj\Debug\WindowsForms.NhanVien_Form.resources
+D:\29. Web Services\WebService\WindowsForms\obj\Debug\WindowsForms.SanPhamChiTiet_Form.resources
+D:\29. Web Services\WebService\WindowsForms\obj\Debug\WindowsForms.DonHang_Form.resources
+D:\29. Web Services\WebService\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\29. Web Services\WebService\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
